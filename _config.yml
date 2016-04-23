@@ -1,5 +1,4 @@
 layout_spectrum: 0.8532821
-typography_spectrum: 0.1096735
 color:
   saturation: 0.9498208
   lightness: 0.5842294
@@ -11,4 +10,5 @@ color:
     - '#E51213'
     - '#D56C1F'
   rhythmicContrast: 0.8419092
+typography_spectrum: 0.1164875
 name: www.islandgirl.clothing
